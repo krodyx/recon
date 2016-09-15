@@ -18,7 +18,7 @@ how your components are being used, easily grep their complexity, draw dependenc
 and isolate points for optimisation.
 
 On top of this the raw information Recon provides gives a strong base for creating tools
-(such as living styleguides) which may need to plug in to component meta data.
+which may need to plug in to static component meta data.
 
 ### How?
 
